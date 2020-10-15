@@ -1,0 +1,46 @@
+/*
+  https://programmers.co.kr/learn/courses/30/lessons/42885
+  프로그래머스 - Greedy 구명보트
+*/
+
+public class Main {
+	
+	static class Solution {
+		
+		public static void reverseSort(int[] arr) {
+	        Arrays.sort(arr);
+	        for (int i = 0; i < arr.length / 2; i++) {
+	            int temp = arr[i];
+	            arr[i] = arr[arr.length - i - 1];
+	            arr[arr.length - i - 1] = temp;
+	        }
+	    }
+		
+	    public int solution(int[] people, int limit) {
+	    	int answer = 0;
+	    	reverseSort(people);
+	    	int l = 0;
+	    	int r = people.length-1;
+	    	while(l < r){
+	    		int sum = people[l] + people[r];
+		    	if(sum > limit) {	
+		    		l++;
+		    	}else {
+		    		l++;
+		    		r--;
+		    	}
+		    	answer++;
+	    	}
+	    	if(l==r) answer++;
+	    	return answer;
+	    }
+	   
+	}
+
+	public static void main(String[] args) {
+		Solution s = new Solution();
+		//50 50 70 80
+		System.out.println(s.solution(new int[] {70, 50, 80, 50},	100)); // 3
+		System.out.println(s.solution(new int[] {70, 80, 50},	100)); // 3
+	}
+}
