@@ -3,7 +3,6 @@
 
 function solution(priorities, location) {
     
-    let Queue = [];
     let outQueue = [];
     
     priorities = priorities.map((item, idx)=>{
