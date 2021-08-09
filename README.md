@@ -7,4 +7,4 @@
 - [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888) - [문제풀이](https://github.com/parkjunoo/Algorithm/blob/master/programmers/level_2/%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9.js)
 - [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587) - [문제풀이](https://github.com/parkjunoo/Algorithm/blob/master/programmers/level_2/%ED%94%84%EB%A6%B0%ED%84%B0.js)
 - [괄호변환](https://programmers.co.kr/learn/courses/30/lessons/60058) - [문제풀이](https://github.com/parkjunoo/Algorithm/blob/master/programmers/level_2/%EA%B4%84%ED%98%B8%EB%B3%80%ED%99%98.js)
-- [순위검색](https://programmers.co.kr/learn/courses/30/lessons/72412) - [문제풀이](https://github.com/parkjunoo/Algorithm/tree/master/programmers/level_2)
+- [순위검색](https://programmers.co.kr/learn/courses/30/lessons/72412) - [문제풀이](https://github.com/parkjunoo/Algorithm/blob/master/programmers/level_2/%EC%88%9C%EC%9C%84%EA%B2%80%EC%83%89.js)
