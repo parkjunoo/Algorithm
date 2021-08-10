@@ -8,3 +8,4 @@
 - [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587) - [문제풀이](https://github.com/parkjunoo/Algorithm/blob/master/programmers/level_2/%ED%94%84%EB%A6%B0%ED%84%B0.js)
 - [괄호변환](https://programmers.co.kr/learn/courses/30/lessons/60058) - [문제풀이](https://github.com/parkjunoo/Algorithm/blob/master/programmers/level_2/%EA%B4%84%ED%98%B8%EB%B3%80%ED%99%98.js)
 - [순위검색](https://programmers.co.kr/learn/courses/30/lessons/72412) - [문제풀이](https://github.com/parkjunoo/Algorithm/blob/master/programmers/level_2/%EC%88%9C%EC%9C%84%EA%B2%80%EC%83%89.js)
+- [거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302) - [문제풀이](https://github.com/parkjunoo/Algorithm/blob/master/programmers/level_2/%EA%B1%B0%EB%A6%AC%EB%91%90%EA%B8%B0%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0.js)
