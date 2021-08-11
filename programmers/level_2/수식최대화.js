@@ -54,8 +54,8 @@ function solution(expression) {
             }
         })
         if(max < Math.abs(temp[0])) {
-               max = Math.abs(temp[0]);
-            }
+                max = Math.abs(temp[0]);
+        }
     })
     return max;
 }
