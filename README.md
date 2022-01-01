@@ -17,5 +17,5 @@
 
 ### 프로그래머스 3단계
 - [입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238) - [문제 풀이](https://github.com/parkjunoo/Algorithm/blob/master/programmers/level_3/%EC%9E%85%EA%B5%AD%EC%8B%AC%EC%82%AC.js)
-- [네트워크[(https://programmers.co.kr/learn/courses/30/lessons/43162) - [문제 풀이]
+- [네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162) - [문제 풀이]
 
