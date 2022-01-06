@@ -20,4 +20,4 @@
 - [입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238) - [문제풀이](https://github.com/parkjunoo/Algorithm/blob/master/programmers/level_3/%EC%9E%85%EA%B5%AD%EC%8B%AC%EC%82%AC.js)
 - [네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162) - [문제풀이](https://github.com/parkjunoo/Algorithm/blob/master/DFS/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC.js)
 - [단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163) - [문제풀이](https://github.com/parkjunoo/Algorithm/blob/master/DFS/%EB%8B%A8%EC%96%B4%EB%B3%80%ED%99%98.js)
-- [베스트 앨범](https://programmers.co.kr/learn/courses/30/lessons/42579) - [문제풀이]()
+- [베스트 앨범](https://programmers.co.kr/learn/courses/30/lessons/42579) - [문제풀이](https://github.com/parkjunoo/Algorithm/blob/master/Hash/%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%95%A8%EB%B2%94.js)
