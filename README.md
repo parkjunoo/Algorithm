@@ -15,7 +15,7 @@
 - [h-index](https://programmers.co.kr/learn/courses/30/lessons/42747) - [문제풀이](https://github.com/parkjunoo/Algorithm/blob/master/programmers/level_2/h-index.js)
 - [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) - [문제풀이](https://github.com/parkjunoo/Algorithm/blob/master/BruteForce/%EC%86%8C%EC%88%98%EC%B0%BE%EA%B8%B0.js)
 - [기능 개발](https://programmers.co.kr/learn/courses/30/lessons/42586?language=javascript) - [문제풀이](https://github.com/parkjunoo/Algorithm/blob/master/Stack/%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C.js)
-- [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626) - [문제풀이]()
+- [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626) - [문제풀이](https://github.com/parkjunoo/Algorithm/blob/master/Heap/%EB%8D%94%EB%A7%B5%EA%B2%8C.java)
 
 ### 프로그래머스 3단계
 - [입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238) - [문제풀이](https://github.com/parkjunoo/Algorithm/blob/master/programmers/level_3/%EC%9E%85%EA%B5%AD%EC%8B%AC%EC%82%AC.js)
