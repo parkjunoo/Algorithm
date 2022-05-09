@@ -3,6 +3,8 @@
 ## 박준수
 
 ### 프로그래머스 1단계
+- [[1차] 뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677) - [문제 풀이](
+https://github.com/parkjunoo/Algorithm/blob/master/2018%20KAKAO%20BLIND%20RECRUITMENT/%5B1%EC%B0%A8%5D%20%EB%89%B4%EC%8A%A4%20%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EB%A7%81.js)
 
 ### 프로그래머스 2단계 
 - [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) - [문제 풀이](https://github.com/parkjunoo/Algorithm/blob/master/programmers/level_2/%ED%83%80%EA%B2%9F%EB%84%98%EB%B2%84.js)
